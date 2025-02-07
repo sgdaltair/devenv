@@ -1,0 +1,43 @@
+1. feat: A new feature for the user.
+   Example: feat: add user authentication
+
+2. fix: A bug fix for the user.
+   Example: fix: resolve issue with login redirect
+
+3. docs: Changes to documentation.
+   Example: docs: update README with setup instructions
+
+4. style: Changes that do not affect the meaning of the code (e.g., formatting, missing semicolons, etc.).
+   Example: style: format code to match ESLint rules
+
+5. refactor: A code change that neither fixes a bug nor adds a feature but improves the code structure, design, or readability.
+   Example: refactor: refactor user authentication flow
+
+6. perf: A performance improvement.
+   Example: perf: improve image loading performance
+
+7. test: Adding or modifying tests.
+   Example: test: add unit test for user service
+
+8. chore: Routine tasks, such as updates to build processes, dependencies, etc., or refactoring without affecting features.
+   Example: chore: update Node.js version in package.json
+
+9. ci: Changes related to Continuous Integration (CI) configuration or scripts.
+   Example: ci: update Travis CI config for Node.js 14
+
+10. build: Changes that affect the build system or external dependencies (e.g., npm, webpack).
+    Example: build: add webpack configuration for production
+
+11. revert: Reverts a previous commit. This is typically used to undo changes.
+    Example: revert: revert "feat: add user profile feature"
+
+12. wip: Work in progress. A commit that marks the progress but is not yet final.
+    Example: wip: start implementation of user profile page
+
+Extended Commit Types (Optional):
+
+13. hotfix: A quick fix that addresses a specific issue urgently (e.g., production bug).
+    Example: hotfix: patch security vulnerability in authentication system
+
+14. security: Security-related fixes.
+    Example: security: fix XSS vulnerability in user input
